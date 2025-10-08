@@ -9,7 +9,7 @@ Bachelor of Computer Applications Student @ St Thomas Autonomous College, Palai
 
 - Social Presence
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shonesiby/)
-<br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shn_cb_01/)
+[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shn_cb_01/)
 
 
 ### I code in
