@@ -5,7 +5,7 @@ Bachelor of Computer Applications Student @ St Thomas Autonomous College, Palai
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
-- Studying at [<img src="https://stcp.ac.in/wp-content/uploads/2024/05/autonomous-banner-white-768x152.webp" height="24">](https://stcp.ac.in/),
+- Studying at [<img src="https://stcp.ac.in/wp-content/uploads/2024/05/autonomous-banner-white-768x152.webp" height="24">](https://stcp.ac.in/)
 
 
 - Social Presence
