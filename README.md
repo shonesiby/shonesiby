@@ -2,7 +2,7 @@
 
 ## Hi there 👋 It's me Shone
 
-Bachelor of Computer Applications Student @ St Thomas Autonomous College, Palai
+Bachelor of Computer Applications Graduate from St Thomas Autonomous College, Palai
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -22,6 +22,3 @@ Bachelor of Computer Applications Student @ St Thomas Autonomous College, Palai
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-
-
-[![Shone's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shonesiby&bg_color=000000&color=ff00f0&line=ff00f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
