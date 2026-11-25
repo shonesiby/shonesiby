@@ -4,7 +4,7 @@
 
 Bachelor of Computer Applications Graduate
 
-<img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="300" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 - Graduated from [<img src="https://stcp.ac.in/wp-content/uploads/2024/05/autonomous-banner-white-768x152.webp" height="24">](https://stcp.ac.in/)
